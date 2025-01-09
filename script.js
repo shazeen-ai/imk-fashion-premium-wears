@@ -84,4 +84,3 @@ document.getElementById('checkout-form').addEventListener('submit', function (e)
     const loader = document.getElementById('loader');
     loader.style.display = 'none'; // Hide the loader once the page is fully loaded
 });
-
